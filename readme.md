@@ -1,7 +1,7 @@
-Group: SEST 2-22
-Subject: Algorithms and data structures 2
-Console Application Using Data Structures
-Project Theme: To-Do List application using Queue
+- Group: SEST 2-22
+- Subject: Algorithms and data structures 2
+- Console Application Using Data Structures
+- Project Theme: To-Do List application using Queue
 
 - Overview
 This is a console-based task management application that allows users to add, remove, edit, and manage their tasks. It uses a custom queue implementation to manage tasks.
