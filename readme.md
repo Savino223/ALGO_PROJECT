@@ -4,11 +4,11 @@
 - Project Theme: To-Do List application using Queue
 
 - Overview
+
 This is a console-based task management application that allows users to add, remove, edit, and manage their tasks. It uses a custom queue implementation to manage tasks.
 
-- Code Structure
-- Files:
-- 
+- Code Structure:
+
 1. ToDoList.cs: Contains the main class for managing the to-do list and task operations.
 2. queue.cs: Contains the ArrayQueue<T> class, a custom queue used by the ToDoList.
 3. Program.cs: Contains the main program that interacts with the user via the console.
